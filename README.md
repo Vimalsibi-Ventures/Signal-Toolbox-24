@@ -43,8 +43,8 @@ frequency-domain, and time-frequency characteristics.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Vimalsibi-Ventures/Signal-Toolbox-24
+cd Signal-Toolbox-24
 
 # 2. Create a virtual environment
 python3 -m venv venv
@@ -63,8 +63,8 @@ streamlit run app.py
 
 ```powershell
 :: 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Vimalsibi-Ventures/Signal-Toolbox-24
+cd Signal-Toolbox-24
 
 :: 2. Create a virtual environment
 python -m venv venv
